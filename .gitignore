@@ -19,3 +19,4 @@ venv/
 *.sublime-workspace
 
 app/common/database.py
+.env
