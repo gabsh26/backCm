@@ -3,3 +3,4 @@ Flask-RESTful
 python-dotenv
 sshtunnel
 mysql-connector
+mysqlclient
